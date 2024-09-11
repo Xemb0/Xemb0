@@ -92,7 +92,7 @@
 About The Project
 Arc Launcher
 
-![Arc Launcher][arc-launcher.jpg] Transforms the standard Android experience into a futuristic, exciting interface, enhancing user interaction and making everyday Android phones feel fresh and innovative.
+![Alt text](Arclauncher.png) Transforms the standard Android experience into a futuristic, exciting interface, enhancing user interaction and making everyday Android phones feel fresh and innovative.
 
 Technologies:
 
@@ -103,13 +103,12 @@ Technologies:
 
 Roles:
 
-    Hardware Programming
     Full-Stack Application Development
     Deployment
 
 Blood Labs
 
-![Alt text](bloodlabs.jpeg)Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
+![Alt text](bloodlabs.png)Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
 
 Technologies:
 
@@ -123,7 +122,7 @@ Technologies:
 
 Roles:
 
-    Hardware Programming
+  
     Full-Stack Application Development
     Deployment
 
