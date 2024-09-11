@@ -107,7 +107,8 @@ Roles:
     Deployment
 
 <h2 align="center">Blood labs</h2>
-![Alt text](bloodlabs.png)Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
+
+![Alt text](bloodlabs.png) Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
 
 Technologies:
 
