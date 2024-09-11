@@ -90,7 +90,7 @@
 
 <!-- ABOUT THE PROJECT -->
 About The Project
-Arc Launcher
+<h2 align="center">Arc Launcher</h2>
 
 ![Alt text](Arclauncher.png) Transforms the standard Android experience into a futuristic, exciting interface, enhancing user interaction and making everyday Android phones feel fresh and innovative.
 
@@ -106,8 +106,7 @@ Roles:
     Full-Stack Application Development
     Deployment
 
-Blood Labs
-
+<h2 align="center">Blood labs</h2>
 ![Alt text](bloodlabs.png)Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
 
 Technologies:
