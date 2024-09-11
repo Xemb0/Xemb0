@@ -109,7 +109,7 @@ Roles:
 
 Blood Labs
 
-![Blood Labs][bloodlabs.jpeg] Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
+![Alt text](bloodlabs.jpeg)Marketplace for sample collection, offering home collection services for various pathology tests. Designed for convenience with quick booking steps and price checks.
 
 Technologies:
 
