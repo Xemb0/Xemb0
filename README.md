@@ -127,9 +127,9 @@ Roles:
     Deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<h2 align="center">Blood labs</h2>
+<h2 align="center">Virtual Gamepad with WebSocket Server</h2>
 
-![Alt text](wx gamepad.png)Virtual Gamepad with WebSocket Server
+![Alt text](WxGamepad.png)
 
 A Virtual Gamepad for macOS and Android that enables seamless gameplay for emulator games. It simulates keyboard and mouse inputs through real-time key mappings via WebSocket communication.
 Features
@@ -144,4 +144,4 @@ Roles
 Full-Stack Development: Server and client-side implementation.
 Platform Integration: macOS and Android compatibility.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/Xemb0/WxGamepadFiles/tree/main">Download Files</a>)</p>
