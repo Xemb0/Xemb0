@@ -127,3 +127,21 @@ Roles:
     Deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<h2 align="center">Blood labs</h2>
+
+![Alt text](wx gamepad.png)Virtual Gamepad with WebSocket Server
+
+A Virtual Gamepad for macOS and Android that enables seamless gameplay for emulator games. It simulates keyboard and mouse inputs through real-time key mappings via WebSocket communication.
+Features
+Cross-Platform: Compatible with macOS and Android.
+Key Mapping: Supports custom keyboard and mouse actions.
+WebSocket Protocol: Low-latency, real-time input handling.
+JSON Messaging: Simple and extensible input format.
+Technologies
+Python, Jetpack Compose, Android Studio
+Xcode, Swift, Pynput
+Roles
+Full-Stack Development: Server and client-side implementation.
+Platform Integration: macOS and Android compatibility.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
