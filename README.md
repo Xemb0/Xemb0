@@ -129,8 +129,7 @@ Roles:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <h2 align="center">Virtual Gamepad with WebSocket Server</h2>
 
-![Alt text](WxGamepad.png)
-
+![Alt text](WxGampad.png)
 A Virtual Gamepad for macOS and Android that enables seamless gameplay for emulator games. It simulates keyboard and mouse inputs through real-time key mappings via WebSocket communication.
 Features
 Cross-Platform: Compatible with macOS and Android.
