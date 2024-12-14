@@ -131,16 +131,34 @@ Roles:
 
 ![Alt text](WxGampad.png)
 A Virtual Gamepad for macOS and Android that enables seamless gameplay for emulator games. It simulates keyboard and mouse inputs through real-time key mappings via WebSocket communication.
-Features
-Cross-Platform: Compatible with macOS and Android.
-Key Mapping: Supports custom keyboard and mouse actions.
-WebSocket Protocol: Low-latency, real-time input handling.
-JSON Messaging: Simple and extensible input format.
-Technologies
-Python, Jetpack Compose, Android Studio
-Xcode, Swift, Pynput
-Roles
-Full-Stack Development: Server and client-side implementation.
-Platform Integration: macOS and Android compatibility.
+
+Features:
+
+    Android Studio
+    Firebase
+    MVVM Architecture
+    Paging Library
+    Compose UI
+    Room
+    Figma
+    Cross-Platform: Compatible with macOS and Android.
+    Key Mapping: Supports custom keyboard and mouse actions.
+    WebSocket Protocol: Low-latency, real-time input handling.
+    JSON Messaging: Simple and extensible input format.
+
+Technologies:
+
+    Cross-Platform: Compatible with macOS and Android.
+    Key Mapping: Supports custom keyboard and mouse actions.
+    WebSocket Protocol: Low-latency, real-time input handling.
+    JSON Messaging: Simple and extensible input format.
+
+
+    Python, Jetpack Compose, Android Studio
+    Xcode, Swift, Pynput
+Roles:
+
+    Full-Stack Development: Server and client-side implementation.
+    Platform Integration: macOS and Android compatibility.
 
 <p align="right">(<a href="https://github.com/Xemb0/WxGamepadFiles/tree/main">Download Files</a>)</p>
