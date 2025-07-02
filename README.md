@@ -105,6 +105,7 @@ Roles:
 
     Full-Stack Application Development
     Deployment
+<p align="right">(<a href="https://imautotech.in/our_products/arc_launcher/arclauncher">Download Launcher</a>)</p>
 
 <h2 align="center">Blood labs</h2>
 
@@ -161,4 +162,4 @@ Roles:
     Full-Stack Development: Server and client-side implementation.
     Platform Integration: macOS and Android compatibility.
 
-<p align="right">(<a href="https://github.com/Xemb0/WxGamepadFiles/tree/main">Download Files</a>)</p>
+<p align="right">(<a href="https://imautotech.in/our_products/wx_gamepad/wxgamepad">Download gamepad</a>)</p>
