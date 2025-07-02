@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishal and I'm a Android and Web developer , from .... Dev Bhoomi Uttrakhand</h2>
+<h2 align="left">Hi 👋! My name is Vishal and I'm a Mobile and Web developer , from .... Dev Bhoomi Uttrakhand</h2>
 
 ###
 
@@ -38,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+    <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/flutter-original.svg" height="60" alt="mysql logo"  />
+    <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/android-original.svg" height="60" alt="mysql logo"  />
 </div>
 
 ###
